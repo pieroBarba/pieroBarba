@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pieroBarba
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on .net projects
+- 📫 How to reach me piero.stevanato@gmail.com
